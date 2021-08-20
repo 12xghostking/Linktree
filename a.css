@@ -35,7 +35,7 @@ body{
       flex-direction: row;
     width: 25%;
     display: block;
-    text-align: center;
+    text-align: left;
   }@media (max-width: 800px) {
     .menu{
       flex-direction: column;
